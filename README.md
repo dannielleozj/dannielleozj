@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I'm a Artificial Intelligence Masters Student
-🌱 I’m currently learning about Large Language Models, Data Analytics and the Cloud
+🔭 I'm a Artificial Intelligence Masters Student<br/>
+🌱 I’m currently learning about Large Language Models, Data Analytics and the Cloud<br/>
 
 <!-- Github Stats-->
 ![Dannielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannielleozj&show_icons=true&theme=radical)
